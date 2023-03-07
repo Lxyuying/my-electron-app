@@ -1,6 +1,6 @@
 {
   "name": "my-electron-app",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Hello World!",
   "main": "main.js",
   "scripts": {
@@ -9,6 +9,10 @@
     "package": "electron-forge package",
     "make": "electron-forge make",
     "publish": "electron-forge publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lxyuying/my-electron-app.git"
   },
   "keywords": [],
   "author": "chensui",
